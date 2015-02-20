@@ -15,6 +15,10 @@ import com.caverock.androidsvg.SVG;
  *
  * This class is for a 2d flat tile used in a top down game
  * as well as other uses such as a puzzle game.
+ * 
+ ********************************************************************
+ *the classes working with Tiles were never finished and may not work
+ ********************************************************************
  */
 public class Tile {
 
